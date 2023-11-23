@@ -20,7 +20,7 @@
 
 
 ###
-# 💫 About Me:
+# About Me:
 I'm Balaji from Tirupur, Tamil Nadu<br>
 <br>- 📚 I'm currently Pursuing MCA<br>
 <br>- 👨‍💻 My Portfolio are available at [https://balajii.tech]
@@ -34,12 +34,15 @@ I'm Balaji from Tirupur, Tamil Nadu<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=balaji-s-2024&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=balaji-s-2024&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=balaji-s-2024&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
+
+# With Great Power Comes Great Responsibility
+
+![Spider-Man](https://imgs.search.brave.com/aDgsklEtXXSrToUXz0jAZ-47y8HEicHQvd0vDqpE67I/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2Q1L2Mx/LzBkL2Q1YzEwZGZh/ODA2MzQzZGE0Yjhm/ZWZjODNkYjQ3NGRi/LmpwZw)
+> *"With great power comes great responsibility."* - Uncle Ben, Spider-Man
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
