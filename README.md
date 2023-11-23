@@ -38,11 +38,10 @@ I'm Balaji from Tirupur, Tamil Nadu<br>
 ![](https://github-contributor-stats.vercel.app/api?username=balaji-s-2024&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
-# With Great Power Comes Great Responsibility
+<img src="https://imgs.search.brave.com/aDgsklEtXXSrToUXz0jAZ-47y8HEicHQvd0vDqpE67I/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2Q1L2Mx/LzBkL2Q1YzEwZGZh/ODA2MzQzZGE0Yjhm/ZWZjODNkYjQ3NGRi/LmpwZw" alt="Spider-Man" width="100">
 
-<img src="https://imgs.search.brave.com/aDgsklEtXXSrToUXz0jAZ-47y8HEicHQvd0vDqpE67I/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2Q1L2Mx/LzBkL2Q1YzEwZGZh/ODA2MzQzZGE0Yjhm/ZWZjODNkYjQ3NGRi/LmpwZw" alt="Spider-Man" width="50">
-
-# *"With great power comes great responsibility."* - Uncle Ben, Spider-Man
+# *"With great power comes great responsibility."* 
+#         - Uncle Ben, Spider-Man
 
 
 
