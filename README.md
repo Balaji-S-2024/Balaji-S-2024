@@ -46,8 +46,6 @@ I'm Balaji from Tirupur, Tamil Nadu<br>
 
 
 # *"With great power comes great responsibility."* 
-<a href="https://app.daily.dev/balajis"><img src="https://api.daily.dev/devcards/c479d576e4994bfd9d80caaf1ffe4420.png?r=lai" width="400" alt="Balaji S's Dev Card"/></a>
-
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
